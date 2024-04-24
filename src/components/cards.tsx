@@ -6,7 +6,7 @@ type Props = {
   directionLeft?: boolean;
 };
 
-const Skill = ({ directionLeft }: Props) => {
+const cards = ({ directionLeft }: Props) => {
   return (
     <div>
       <motion.div
@@ -30,11 +30,11 @@ const Skill = ({ directionLeft }: Props) => {
         />
 
         <div>
-          <p clas>100%</p>
+          <p>100%</p>
         </div>
       </motion.div>
     </div>
   );
 };
 
-export default Skill;
+export default cards;

@@ -22,7 +22,7 @@ const page = () => {
         <Experiance />
       </section>
       <section>
-        <Skills className="snap-center" />
+        <Skills  />
       </section>
     </div>
   );
