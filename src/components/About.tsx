@@ -43,15 +43,15 @@ export default function About({}: Props) {
           background🪄:
         </h4>
         <p className="text-base w-auto md:w-[700px]">
-          Hey there! 👋 It's{" "}
+          Hey there! 👋 Its
           <span className="underline decoration-blue-200 ">
             Abdirahman Abdi
           </span>
-          , your friendly neighborhood{" "}
+          , your friendly neighborhood
           <span className="underline decoration-blue-200 ">
             fullstack developer
-          </span>{" "}
-          and{" "}
+          </span>
+          and
           <span className="underline decoration-blue-400">
             {" "}
             blockchain enthusiast!
@@ -60,12 +60,12 @@ export default function About({}: Props) {
           soaking up knowledge at Code 3 Camp under the guidance of real
           industry pros to diving deep into hands-on projects at Ngeni Labs,
           where every line of code felt like a masterpiece in the making. 🚀 And
-          let's not forget my unforgettable three-month internship at Ngeni,
+          lets not forget my unforgettable three-month internship at Ngeni,
           where I dove even deeper into the tech world, learning, growing, and
           making meaningful contributions along the way. 💼 Now, armed with
-          passion, perseverance, and a whole lot of code, I'm ready to take on
+          passion, perseverance, and a whole lot of code, Im ready to take on
           whatever challenges come my way and continue pushing the boundaries of
-          innovation in the tech sphere! 💪💡 Let's code the future together! 🌟
+          innovation in the tech sphere! 💪💡 Lets code the future together! 🌟
         </p>
       </div>
     </motion.div>
